@@ -1,1 +1,2 @@
 Dosya4.txt oluşturuldu
+planlama sağla
