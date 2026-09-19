@@ -1,2 +1,3 @@
 Dosya4.txt oluşturuldu
 planlama sağla
+body tasarlamasını sağla
