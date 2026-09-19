@@ -1,3 +1,5 @@
 Dosya oluşturuldu
 ilk kulannım planı çıkarıldı
 body tasarla
+son testleri yap
+canlıya al
