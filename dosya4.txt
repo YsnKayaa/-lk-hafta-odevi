@@ -1,3 +1,4 @@
 Dosya4.txt oluşturuldu
 planlama sağla
 body tasarlamasını sağla
+Gerekli testleri yap
