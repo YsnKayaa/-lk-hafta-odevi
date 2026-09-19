@@ -2,3 +2,4 @@ dosya2 oluşturuldu
 ilk kullanım aşamaları yapıldı
 body oluşturuldu
 test ekibi testlerini yaptı
+canlıya alındı
