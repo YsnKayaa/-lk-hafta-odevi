@@ -2,4 +2,5 @@ dosya5.txt dosyası oluşturuldu
 Genel tasarım planlaması sağlandı
 Web sitesi body tasarlaması sağlandı
 Canlıya alım öncesi son testler yapıldı
-Web site canlıya alım
+Web site canlıya alındı
+Takibi sağla
