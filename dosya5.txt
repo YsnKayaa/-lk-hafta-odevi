@@ -1,0 +1,2 @@
+dosya5.txt dosyası oluşturuldu
+Genel tasarım planlaması sağlandı
