@@ -1,6 +1,6 @@
 Git Ödevi
 
-Bu projede Git ve GitHub kullanarak ödev teslim sürecini gerçekleştirdim.
+Bu projede Git, VS code ve GitHub kullanarak ödev teslim sürecini gerçekleştirdim.
 
 Kullanılan Git Komutları
 git add . → Dosyaları commit için hazırlamak için kullandım.
